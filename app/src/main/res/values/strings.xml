@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Object Store</string>
+
+    <string name="object_options">Object options</string>
+    <string name="main_menu">Main menu</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="objects_screen_title">Objects</string>
+    <string name="edit_screen_title">Edit object</string>
+    <string name="add_new_screen_title">Add new object</string>
+    <string name="type">Type</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="error">Field should not be empty</string>
+    <string name="relations">Relations:</string>
+    <string name="relation">relation</string>
+    <string name="search">Search</string>
+    <string name="floating_button_hint">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="delete_question">Are you sure you want to delete %1$s %2$s?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="pick_relation">Pick an object to relate to</string>
+    <string name="pick_impossible">No objects available or there are already relations with all the possible objects</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+</resources>
